@@ -16,17 +16,9 @@ public class Interactable : MonoBehaviour
 	{
 		Debug.Log("making transparent");
 		if (t == true)
-		{
 			color.a = 0.5f;
-			//this.gameObject.renderer.material.color.a = 0.5f;
-			//GetComponent<Renderer>().material.color.a = 0.5f;
-		}
 		else
-		{
 			color.a = 1;
-			//this.gameObject.renderer.material.color.a = 1;
-			//GetComponent<Renderer>().material.color.a = 1;
-		}
 		GetComponent<Renderer>().material.color = color;
 	}
 }
