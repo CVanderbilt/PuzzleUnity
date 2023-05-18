@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a small project for unity, the goal for this project was to create a playable character that will be able to:
+This is a small project for unity, the goal for this project was to create a playable character that was be able to:
 
 - Look around with the mouse, move and jump with wasd and space bar.
 - When clicking grab an object with attached script ```Interactable.cs```, grabbed objects will move towards the player and stay in front of the player.
