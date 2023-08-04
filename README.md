@@ -10,4 +10,4 @@ This is a small project for unity, the goal for this project was to create a pla
 - Grabbed objects became semi transparent so the player can actually see while holding the object.
 - Since the objects are still affected by physics it is possible to throw them.
 
-![alt text](https://github.com/CVanderbilt/PuzzleUnity/blob/main/other_resources/puzzle.gif "SampleAnimation")
+![alt text](https://github.com/CVanderbilt/PuzzleUnity/blob/main/other_resources/puzzle.gif?raw=true "SampleAnimation")
